@@ -39,8 +39,9 @@
 > - 时间 $timeout, $interval
 > - $digest , $apply
 
-能说一下 `$digest` 与 `$apply` 的区别吗？
+能说一下 `$digest` 与 `$apply` 的区别吗？ 
 > 前者自动，后者手动调用；前者的作用范围是 **整个项目**，后者是当前控制器
+
 
 能简单说一下 $scope 和 $rootScope 的区别吗？
 > - $scope 是局部作用域，作用范围是当前控制器
